@@ -1,2 +1,7 @@
-# demo-escribania-trautman-registro-notarial-n-
-Demo web para ESCRIBANIA TRAUTMAN - REGISTRO NOTARIAL N° 12 — diseñada por eterlab.
+# ESCRIBANIA TRAUTMAN - REGISTRO NOTARIAL N° 12
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
